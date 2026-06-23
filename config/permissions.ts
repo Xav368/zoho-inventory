@@ -114,16 +114,6 @@ export const permissions: ModulePermissions[] = [
       delete: "products.delete",
     },
   },
-  {
-    display: "Blogs",
-    name: "blogs",
-    permissions: {
-      create: "blogs.create",
-      read: "blogs.read",
-      update: "blogs.update",
-      delete: "blogs.delete",
-    },
-  },
 ];
 
 // Helper function to get all permission strings

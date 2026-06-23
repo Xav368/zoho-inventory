@@ -50,11 +50,12 @@ export default function Footer() {
         <div className="max-w-7xl mx-auto mb-16 flex flex-col md:flex-row justify-between items-start md:items-center">
           <div className="mb-8 md:mb-0">
             <h2 className="text-2xl md:text-3xl font-semibold mb-4 bg-gradient-to-r from-emerald-400 to-green-500 bg-clip-text text-transparent">
-              Build faster with HubStack
+              Manage your Inventory with Inventory Pro
             </h2>
             <p className="text-gray-400 max-w-xl text-base">
-              Start your next project with our premium starter kit. Get all the
-              features you need to build modern web applications.
+              Inventory Pro offers a comprehensive solution for businesses to track products,
+              manage stock levels across multiple locations, process sales orders, 
+              and handle supplier relationships
             </p>
           </div>
           <div className="flex gap-4 md:flex-row flex-col">
